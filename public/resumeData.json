@@ -1,18 +1,18 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
+    "name": "I'm Tiffany Marie",
+    "Java Script ": "ReactJS Developer && Cleverprogrammerthebomb.com @CleverProgrammer",
+    "description": "I'm a NYC React Developer in the city that never sleeps , Founder by day && Freelancer 24 7 . #papaReact",
     "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "bio": "Hi my name is Tiffany, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also meeting expectations ",
+    "contactmessage": "Get in touch with me to receive further details, get all insight skills just ask.",
+    "email": "Tiffany@santiagotiffany23@Yahoo.com",
+    "phone": "+9175201355",
     "address": {
       "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "city": "New york",
+      "state": "UsA",
+      "zip": "123 35"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload": "http://timbakerdev.com",
@@ -28,24 +28,24 @@
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "name": "tiffany.s.marie",
+        "url": "https://www.instagram.com/https://tiffany.s.marie//",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "http://github.com/Tiffanymarie",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Service-oriented architechure/web development through JavaScript with dynamic matrix skills",
     "education": [
       {
-        "school": "University of Kent",
+        "school": "University of cleverprogrammers",
         "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
+        "graduated": "January 2020",
         "description": "Graduated with Distinction"
       }
     ],
@@ -127,11 +127,11 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "Very attentive & willing to go the extra mile for Jobs or personal relations. Hard worker versitile & can quickly adapt.",
+        "user": "Tiffany Santiago"
       },
       {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "text": "That Tiffany Marie must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired her yet. Hey you, you should hire this one, she may be fresh out of University and have zero on the job experience but I am confident that she will be one of your best developers in no time!",
         "user": "Steve Wozniak... impersonator"
       }
     ]
