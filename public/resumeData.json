@@ -1,17 +1,17 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "name": "Tiffany Marie",
+    "occupation": "ReactJS Developer && thebomb.com @CleverProgrammer",
+    "description": " I'm from the NYC the city the never sleeps I work as a Full Stack React Developer by Day, Founder && Freelancer all night. #papaReact",
+    "image": "IG_tiffany.s.marie",
+    "bio": "My name is Tiffany Santiago, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also meeting all expectations",
+    "contactmessage": "Get in touch with me to receive further details, for any insight necessary.",
+    "email": "santiagotiffany23@ayhoo.com",
+    "phone": "+917 520 1355",
     "address": {
       "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
+      "city": "New York",
+      "state": "USA",
       "zip": "ABC 123"
     },
     "website": "http://www.timbakerdev.com",
@@ -19,22 +19,22 @@
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/tiffanymarie99",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/tiffany-santiago-8851a745//",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/tiffany.s.marie/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "http://github.com/tiffany marie",
         "className": "fa fa-github"
       }
     ]
@@ -43,9 +43,9 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Kent",
+        "school": "University of clever programmer",
         "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
+        "graduated": "January 2019",
         "description": "Graduated with Distinction"
       }
     ],
@@ -127,11 +127,11 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "text": "very attentive with tasks jobs or personal relations & . I'm versitile and can quickly adapt.",
         "user": "Kareem Abdul Jabbar"
       },
       {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "text": "That Tiffany Marie must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired her yet. Hey you, you should hire this one, she may be fresh out of University and have zero on the job experience but I am confident that she will be one of your best developers in no time!",
         "user": "Steve Wozniak... impersonator"
       }
     ]
